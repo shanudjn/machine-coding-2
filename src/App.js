@@ -1,23 +1,22 @@
-import logo from './logo.svg';
+
+import { useState } from 'react';
 import './App.css';
+import Products from './components/Products';
+import Cart from './components/Cart';
+
 
 function App() {
+  const [route, setRoute] = useState("products")
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+
+      <button onClick={() => setRoute("products")}>Products</button>
+      <button onClick={() => setRoute("cart")}>Cart</button>
+      {route === "products" && <Products />}
+      {route === "cart" && <Cart />}
+
+
+      {/* <Products /> */}
     </div>
   );
 }

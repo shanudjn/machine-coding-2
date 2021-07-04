@@ -1,0 +1,89 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "image": "https://rukminim1.flixcart.com/image/309/371/kmkxbww0/jacket/c/h/z/m-adaw20jk004b-adrenex-original-imagfgcjsq3cguhr.jpeg?q=50",
+            "name": "Color Block Men Round Neck Black T-Shirt",
+            "brand": "Seven Rocks",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "idealFor": "Men",
+            "price": 1299,
+            "discount": 69
+        },
+        {
+            "id": "2",
+            "image": "https://rukminim1.flixcart.com/image/309/371/kmkxbww0/jacket/c/h/z/m-adaw20jk004b-adrenex-original-imagfgcjsq3cguhr.jpeg?q=50",
+            "name": "Men Round Neck Black T-Shirt",
+            "brand": "People",
+            "sizes": [
+                "S",
+                "M"
+            ],
+            "idealFor": "Men",
+            "price": 1500,
+            "discount": 20
+        },
+        {
+            "id": "3",
+            "image": "https://rukminim1.flixcart.com/image/309/371/kj0bp8w0/jacket/b/4/f/m-maw20jkt054b-metronaut-original-imafyzjeffd4vks8.jpeg?q=50",
+            "name": "Color Block Round Neck T-Shirt",
+            "brand": "Jack & Jones",
+            "sizes": [
+                "S",
+                "XL"
+            ],
+            "idealFor": "Women",
+            "price": 800,
+            "discount": 50
+        },
+        {
+            "id": "4",
+            "image": "https://rukminim1.flixcart.com/image/309/371/kj0bp8w0/jacket/b/4/f/m-maw20jkt054b-metronaut-original-imafyzjeffd4vks8.jpeg?q=50",
+            "name": "Color Block Girls T-Shirt",
+            "brand": "Max",
+            "sizes": [
+                "S",
+                "M",
+                "L"
+            ],
+            "idealFor": "Girls",
+            "price": 699,
+            "discount": 0
+        },
+        {
+            "id": "5",
+            "image": "https://rukminim1.flixcart.com/image/309/371/kj0bp8w0/jacket/b/4/f/m-maw20jkt054b-metronaut-original-imafyzjeffd4vks8.jpeg?q=50",
+            "name": "Color Blue Round Neck T-Shirt",
+            "brand": "W",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "idealFor": "Men",
+            "price": 1299,
+            "discount": 50
+        },
+        {
+            "id": "6",
+            "image": "https://rukminim1.flixcart.com/image/309/371/kj0bp8w0/jacket/b/4/f/m-maw20jkt054b-metronaut-original-imafyzjeffd4vks8.jpeg?q=50",
+            "name": "Color Black T-Shirt",
+            "brand": "W",
+            "sizes": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "idealFor": "Women",
+            "price": 799,
+            "discount": 0
+        }
+    ]
+}
